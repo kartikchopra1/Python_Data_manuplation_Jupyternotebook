@@ -5,4 +5,4 @@ Script contains methodo to
 - Clean Data
 - Process Data
 - Analyze Data
-and getting meaningful infromation from it 
+and getting meaningful infromation using Pandas seabron and Numpy 
